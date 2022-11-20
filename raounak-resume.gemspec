@@ -22,7 +22,7 @@ Gem::Specification.new do |spec|
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
   spec.files = `git ls-files`.split("\n")
   spec.bindir = "exe"
-  spec.executables = ["raouank"]
+  spec.executables = ["raounak"]
   spec.require_paths = ["lib"]
 
   # Uncomment to register a new dependency of your gem

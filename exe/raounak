@@ -1,0 +1,5 @@
+#!/usr/env/bin ruby
+
+require 'raounak/resume/cli'
+
+Raounak::Resume::Cli.start
