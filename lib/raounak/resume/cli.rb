@@ -18,6 +18,11 @@ module Raounak
           'Computer science graduate'
         end
       end
+
+      desc "workEx", "It will tell you about my work exp"
+      def workEx
+        puts "Working with Ruby since 2017"
+      end
     end    
   end
 end
